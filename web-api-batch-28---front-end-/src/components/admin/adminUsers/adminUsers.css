@@ -1,0 +1,10 @@
+#userCard{
+    height: 600px;
+}
+#userCard:hover{
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+}
+#cardHeader{
+
+}

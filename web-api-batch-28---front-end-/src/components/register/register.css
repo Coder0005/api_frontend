@@ -1,0 +1,20 @@
+#register-btn{
+    background-color: green;
+    border-radius: 20px;
+    padding: 0.5%;
+    margin: 1%;
+}
+#clear-btn{
+    background-color: red;
+    border-radius: 20px;
+    padding: 0.5%;
+    margin: 1%;
+}
+#register-form{
+ padding: 5%;
+}
+#form-container{
+    background-image: url(https://wallpapers.com/images/high/plain-dark-wall-szprhkh4fpr6v9xv.jpg);
+    background-size: 100% 100%;
+    color : white
+}

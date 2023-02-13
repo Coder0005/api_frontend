@@ -1,0 +1,11 @@
+
+#card{
+    width: '18rem' ;
+    padding: 3%
+}
+#galleryImg:hover{
+    border-bottom: 4px solid red
+}
+
+
+

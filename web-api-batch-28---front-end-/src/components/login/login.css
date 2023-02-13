@@ -1,0 +1,23 @@
+#login-btn{
+    background-color: green;
+    border-radius: 20px;
+    padding: 0.5%;
+    margin: 1%;
+}
+#clear-btn{
+    background-color: red;
+    border-radius: 20px;
+    padding: 0.5%;
+    margin: 1%;
+}
+#register-btn{
+    background-color: goldenrod;
+    border-radius: 20px;
+    padding: 0.5%;
+    margin: 1%;
+}
+#login-container{
+    padding: 6%;
+    background-image: url(https://img2.goodfon.com/wallpaper/nbig/2/99/tekstury-tekstura-texture-fon.jpg);
+       background-size: 100% 100%;
+}

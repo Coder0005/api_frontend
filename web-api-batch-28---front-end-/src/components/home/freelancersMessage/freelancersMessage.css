@@ -1,0 +1,8 @@
+#freelancerMessageCard{
+    padding: 3%;
+    height: 600px;
+    overflow: hidden;
+}
+#freelancerMessageCard:hover{
+    border-radius: 100px;
+}

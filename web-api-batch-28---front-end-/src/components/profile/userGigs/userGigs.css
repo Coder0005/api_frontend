@@ -1,0 +1,40 @@
+#div-1{
+    background-color: grey;
+}
+#div-2{
+    background-color: green;
+}
+#gig-1{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 5%;
+    border-top: 10px solid green;
+    border-bottom: 10px solid red;
+    border-left: 10px solid bisque;
+    border-right: 10px solid yellowgreen;
+    background-color: cyan;
+}
+#gig-2{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 5%;
+    border-top: 10px solid red;
+    border-bottom: 10px solid blue;
+    border-left: 10px solid green;
+    border-right: 10px solid darkgrey;
+
+    background-color: lightblue;
+}
+#update-btn{
+    background-color: green;
+    color : white
+}
+#delete-btn{
+    background-color: red;
+    color : white
+}
+

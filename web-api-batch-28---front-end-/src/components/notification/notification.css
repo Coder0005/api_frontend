@@ -1,0 +1,32 @@
+#notification-table{
+    margin: 5%;
+    border: 5px solid black;
+}
+
+
+#table-row-heading{
+    background-color: blue;
+    padding: 5%;
+}
+#row-1{
+    background-color: red;
+    margin: 12%;
+}
+#row-2{
+    background-color: yellow;
+    padding: 20px;
+}
+.table-data{
+    padding: 5%;
+}
+#row-1:hover{
+    background-color: grey;
+}
+#notifications-table{
+    margin: 3%;
+}
+#tableRow:hover{
+    border-right: 5px solid greenyellow;
+    border-left: 5px solid greenyellow;
+ 
+}
